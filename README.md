@@ -332,7 +332,50 @@ kubernetes/
 
 ---
 
+## Documentation Standards
 
+Toda la documentación seguirá principios de:
+
+- Claridad técnica.
+- Organización consistente.
+- Evidencia práctica.
+- Reproducibilidad.
+- Referencias oficiales.
+- Mejora continua.
+
+---
+
+## Roadmap
+
+### Phase 1 — Cloud Fundamentals
+
+- Conceptos Cloud.
+- Arquitectura.
+- Redes.
+- Almacenamiento.
+
+### Phase 2 — Cloud Infrastructure
+
+- AWS.
+- Infrastructure as Code.
+- Automatización.
+
+### Phase 3 — Cloud Native
+
+- Containers.
+- Kubernetes.
+- Observabilidad.
+- Seguridad.
+
+### Phase 4 — Enterprise Cloud
+
+- Arquitecturas empresariales.
+- Alta disponibilidad.
+- Recuperación ante desastres.
+- Optimización de costos.
+- Proyectos empresariales.
+
+---
 
 
 
