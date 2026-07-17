@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">CLOUD</h1>
-<p align="center">Azure| AWS | Google Cloud | Storage | Cybersecurity | MongoDB | SQLite | PL/SQL</p>
+<p align="center">Azure| AWS | Google Cloud | Storage | Cybersecurity | Hybrid | Administration | Networking</p>
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
 
