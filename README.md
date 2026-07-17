@@ -245,8 +245,92 @@ cloud-engineering/
 
 ---
 
+## Technical Domains
 
+### Domain Name
 
+Descripción del dominio y su importancia dentro del ecosistema tecnológico.
+
+Incluye:
+
+- Tecnologías principales.
+- Herramientas utilizadas.
+- Casos de uso.
+- Aplicaciones empresariales.
+
+---
+
+## Labs
+
+Los laboratorios documentarán escenarios prácticos relacionados con infraestructura Cloud, automatización, arquitectura y administración de plataformas empresariales.
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Requisitos
+- Procedimiento
+- Evidencia
+- Resultados
+- Lecciones aprendidas
+
+### Example
+
+```text
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+```
+
+---
+
+## Projects
+
+Los proyectos estarán orientados a implementar soluciones Cloud utilizadas en escenarios empresariales.
+
+Ejemplos:
+
+- Arquitecturas Cloud.
+- Infraestructura como Código.
+- Kubernetes.
+- Automatización.
+- Alta disponibilidad.
+- Recuperación ante desastres.
+
+---
+
+## Learning Paths
+
+Cada dominio tecnológico mantendrá sus propias rutas de aprendizaje y certificaciones.
+
+Ejemplo:
+
+```text
+aws/
+
+└── learning-paths/
+
+    Cloud Practitioner
+
+    Solutions Architect Associate
+
+    SysOps Administrator
+
+infrastructure-as-code/
+
+└── learning-paths/
+
+containers/
+
+└── learning-paths/
+
+kubernetes/
+
+└── learning-paths/
+```
+
+---
 
 
 
